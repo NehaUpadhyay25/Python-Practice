@@ -1,0 +1,28 @@
+"""
+CSCI-603 : LAB ASSIGNMENT 9
+FILENAME : test-description.txt
+Authors  : Neha Upadhyay  (nxu3128@rit.edu)
+
+This is the test case description file for the code. These are the test cases
+which are being used and the final result is being printed.
+"""
+
+Test Case - 1 :
+
+Test case one is the general test case given in the implementation set. This case set reads 
+the data from the file and finds the way to escape through the rightmost point of the row 
+given in the line first of the file.
+
+Test Case - 2 :
+
+Test case 2 checks for two consequent rocks in the ice-maze and checks whether it finds a 
+way out to escape.This case set reads the data from the file and finds the way to escape 
+through the rightmost point of the row given in the line first of the file.
+
+Test Case - 3 :
+
+Test case 3 checks for two rocks in a row. It functions in a way that when it encounters 
+the first row it breaks hte loop and turn the direction to other way. This case set reads 
+the data from the file and finds the way to escape through the rightmost point of the row 
+given in the line first of the file. This file also prints the nodes which doesn't contain
+any path.
