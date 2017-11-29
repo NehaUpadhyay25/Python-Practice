@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d0844ec-c6e2-4e5a-8684-84f465608270" name="Default" comment="" />
+    <list default="true" id="7d0844ec-c6e2-4e5a-8684-84f465608270" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DLL.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DoublyLinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HeapDeletion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LHeap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkNode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Linkednode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PracHeap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bstp2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btnode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hashmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leclinkedlist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lecqueue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lecstack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourqueue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourstack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ourtree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rit_search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rit_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/traversals.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment1/myname.py" afterPath="$PROJECT_DIR$/myname.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment10/insthashtable.py" afterPath="$PROJECT_DIR$/insthashtable.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment2/lumber.py" afterPath="$PROJECT_DIR$/lumber.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment3/antenna.py" afterPath="$PROJECT_DIR$/antenna.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment4/transformer.py" afterPath="$PROJECT_DIR$/transformer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment5/trader.py" afterPath="$PROJECT_DIR$/trader.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment6/dnalist.py" afterPath="$PROJECT_DIR$/dnalist.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment6/genetester.py" afterPath="$PROJECT_DIR$/genetester.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment7/tatracker.py" afterPath="$PROJECT_DIR$/tatracker.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment7/testFile.py" afterPath="$PROJECT_DIR$/testFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment8/balances.py" afterPath="$PROJECT_DIR$/balances.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/escape.py" afterPath="$PROJECT_DIR$/escape.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/graph.py" afterPath="$PROJECT_DIR$/graph.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/test-descriptions.txt" afterPath="$PROJECT_DIR$/test-descriptions.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/test1.txt" afterPath="$PROJECT_DIR$/test1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/test2.txt" afterPath="$PROJECT_DIR$/test2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/test3.txt" afterPath="$PROJECT_DIR$/test3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment9/vertex.py" afterPath="$PROJECT_DIR$/vertex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +62,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="bst.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bst.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -40,6 +102,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -55,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -70,13 +134,16 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -232,23 +299,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -261,7 +328,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignment1/myname.py">
+    <entry file="file://$PROJECT_DIR$/myname.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
@@ -269,7 +336,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment10/insthashtable.py">
+    <entry file="file://$PROJECT_DIR$/insthashtable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
@@ -277,7 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment2/lumber.py">
+    <entry file="file://$PROJECT_DIR$/lumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -285,7 +352,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/antenna.py">
+    <entry file="file://$PROJECT_DIR$/antenna.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -293,7 +360,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment4/transformer.py">
+    <entry file="file://$PROJECT_DIR$/transformer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
@@ -301,7 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment5/trader.py">
+    <entry file="file://$PROJECT_DIR$/trader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
@@ -309,7 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment6/dnalist.py">
+    <entry file="file://$PROJECT_DIR$/dnalist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
@@ -317,7 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment6/genetester.py">
+    <entry file="file://$PROJECT_DIR$/genetester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
@@ -325,7 +392,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment7/testFile.py">
+    <entry file="file://$PROJECT_DIR$/testFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
@@ -333,7 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment7/tatracker.py">
+    <entry file="file://$PROJECT_DIR$/tatracker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
@@ -341,7 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment8/balances.py">
+    <entry file="file://$PROJECT_DIR$/balances.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
@@ -349,7 +416,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/test1.txt">
+    <entry file="file://$PROJECT_DIR$/test1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -357,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/test2.txt">
+    <entry file="file://$PROJECT_DIR$/test2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -365,7 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/test3.txt">
+    <entry file="file://$PROJECT_DIR$/test3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -373,7 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/test-descriptions.txt">
+    <entry file="file://$PROJECT_DIR$/test-descriptions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
@@ -381,7 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/vertex.py">
+    <entry file="file://$PROJECT_DIR$/vertex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
@@ -389,7 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/graph.py">
+    <entry file="file://$PROJECT_DIR$/graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -397,10 +464,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment9/escape.py">
+    <entry file="file://$PROJECT_DIR$/escape.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3038">
           <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
           <folding />
         </state>
       </provider>
